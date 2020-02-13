@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"author"
+			],
+			[
+				"p",
+				"power"
+			],
+			[
+				"cout",
+				"counter"
+			],
+			[
+				"st",
+				"string\tstandard header"
+			],
+			[
+				"ma",
+				"maxN"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"h",
+				"set\tstandard header"
+			],
+			[
+				"c",
+				"csum"
+			],
+			[
+				"e",
+				"ed"
+			],
+			[
+				"s",
+				"st"
+			],
+			[
+				"g",
+				"g_nodes"
+			],
+			[
+				"i",
+				"idx"
+			],
+			[
+				"l",
+				"l_w"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"INT",
+				"INT_MIN"
+			],
+			[
+				"IN",
+				"INT_MIN"
+			],
+			[
+				"min",
+				"minn"
+			],
+			[
+				"co",
+				"cost"
+			],
+			[
+				"spl",
+				"splitText"
+			],
+			[
+				"n",
+				"neg"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"pre",
+				"prefa"
+			],
+			[
+				"pref",
+				"prefb"
+			],
+			[
+				"pr",
+				"prefa"
+			],
+			[
+				"mb",
+				"mb"
+			],
+			[
+				"max",
+				"maxxb"
+			],
+			[
+				"tra",
+				"trace2"
+			],
+			[
+				"de",
+				"decSecond"
+			],
+			[
+				"M",
+				"MaxHeap"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Max",
+				"MaxHeapify"
+			],
+			[
+				"ca",
+				"cap"
+			],
+			[
+				"cap",
+				"capacity"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"m",
+				"mI"
+			],
+			[
+				"sol",
+				"solveKTUtil"
+			],
+			[
+				"y",
+				"yM"
+			],
+			[
+				"x",
+				"xM"
+			],
+			[
+				"tr",
+				"trace1"
+			],
+			[
+				"lis",
+				"list2"
+			],
+			[
+				"list",
+				"list2"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"new",
+				"new_node"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"trace",
+				"trace1"
+			],
+			[
+				"trac",
+				"trace2"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"tre",
+				"trace1"
+			],
+			[
+				"d",
+				"dif"
+			],
+			[
+				"ski",
+				"skipR"
+			],
+			[
+				"I",
+				"iIngre"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SHIFTPAL.cpp",
+			"settings":
+			{
+				"buffer_size": 1740,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "code_snippets.cpp",
+			"settings":
+			{
+				"buffer_size": 3344,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stdc++.h",
+			"settings":
+			{
+				"buffer_size": 3058,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 1,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "output.txt",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CP.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/CP.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CP.sublime-build",
+					"Run in Terminal"
+				]
+			],
+			[
+				"Packages/User/CP.sublime-build",
+				"Run in Terminal"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"viwe",
+				"View: Toggle Menu"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"live",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 109.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sidhhant/CPP/build_script.sublime-build",
+		"/Users/sidhhant/Library/Application Support/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/Users/sidhhant/CPcode/CP/rr.cpp",
+		"/Users/sidhhant/CPcode/CP/xxx.cpp",
+		"/Users/sidhhant/CPcode/CP/xyy.cpp",
+		"/Users/sidhhant/CPcode/CP/aa.cpp",
+		"/Users/sidhhant/CPcode/CP/art.cpp",
+		"/Users/sidhhant/CPcode/CP/aaa.cpp",
+		"/Users/sidhhant/CPcode/CP/aaaa.cpp",
+		"/Users/sidhhant/CPcode/CP/test.cpp",
+		"/Users/sidhhant/CPcode/CP/example.cpp",
+		"/Users/sidhhant/CPcode/CP/xman.cpp",
+		"/Users/sidhhant/CPcode/CP/untitled",
+		"/Users/sidhhant/Library/Application Support/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/Users/sidhhant/Library/Application Support/Sublime Text 3/Packages/User/CP.sublime-build",
+		"/Users/sidhhant/CPcode/CP/CP.sublime-build",
+		"/Users/sidhhant/Library/Application Support/Sublime Text 3/Packages/User/CP",
+		"/home/rubikrevenge/CPcode/CP/code_snippets.cpp",
+		"/home/rubikrevenge/CPcode/CP/SegemtTree_1.cpp",
+		"/home/rubikrevenge/CPcode/CP/SegmentTree.cpp",
+		"/home/rubikrevenge/CPcode/CP/SegmentTreeLazy.cpp",
+		"/home/rubikrevenge/CPcode/CP/Trie.cpp",
+		"/home/rubikrevenge/CPcode/CP/CP.sublime-build",
+		"/home/rubikrevenge/.config/sublime-text-3/Packages/User/CP.sublime-build",
+		"/home/sidhhant/.config/sublime-text-3/Packages/User/CP.sublime-build",
+		"/home/sidhhant/CPcode/CP/CP.sublime-build",
+		"/C/Users/sidhhant/Desktop/CPcode/CP/CP.sublime-build",
+		"/C/Users/sidhhant/Desktop/CPcode/CP/code_snippets.cpp",
+		"/C/Users/sidhhant/Desktop/CPcode/CP/Imp.txt",
+		"/C/Users/sidhhant/Desktop/sample.cpp",
+		"/C/Users/sidhhant/AppData/Roaming/Sublime Text 3/Packages/User/CP.sublime-build",
+		"/home/sidhhant/Downloads/Shaadi.Mein.Zaroor.Aana.2017.Hindi.(1CD).PRE.x264.AAC.-.Hon3y/www.hon3yhd.to.mkv",
+		"/home/sidhhant/Desktop/Pitches (1).txt",
+		"/home/sidhhant/.config/sublime-text-3/Packages/User/sftp_servers/187",
+		"/etc/default/grub",
+		"/home/sidhhant/Downloads/A.cpp",
+		"/home/sidhhant/SolutionCP/CP/1.cpp",
+		"/tmp/sublime-sftp-browse-1500116791/187/home/sidhhant/channeli/apps/thinktank/forms.py",
+		"/home/sidhhant/Desktop/wc.cpp",
+		"/home/sidhhant/impLinks/puzzle.txt",
+		"/home/sidhhant/seg_template.cpp",
+		"/home/sidhhant/test.cpp",
+		"/home/sidhhant/code.cpp",
+		"/home/sidhhant/Desktop/hh.cpp",
+		"/home/sidhhant/Desktop/SolutionCP/CP/test.cpp",
+		"/home/sidhhant/Desktop/SolutionCP/README.md",
+		"/media/sidhhant/Elements/Dirty chess/Chess.et",
+		"/home/sidhhant/Desktop/CP/example.cpp",
+		"/home/sidhhant/Desktop/test.html",
+		"/home/sidhhant/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/sidhhant/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sidhhant/Desktop/CP/inupt.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"caps",
+			"curj",
+			"curi",
+			"out",
+			"inp",
+			"caardLast",
+			"initial"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SHIFTPAL.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1167,
+								1167
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								228,
+								2,
+								13,
+								10,
+								53,
+								28,
+								14,
+								153,
+								201,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 413.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "code_snippets.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								228,
+								2,
+								13,
+								11,
+								9,
+								0,
+								13,
+								117,
+								91,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 103.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stdc++.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2578,
+								2578
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								228,
+								2,
+								13,
+								11,
+								9,
+								28,
+								6,
+								220,
+								99,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1223.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								228,
+								2,
+								13,
+								10,
+								53,
+								49,
+								6,
+								255,
+								147,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								228,
+								2,
+								13,
+								10,
+								53,
+								59,
+								4,
+								100,
+								37,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.663852719907,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/CP.sublime-build",
+	"project": "setup.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/CPcode/CP/CP.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
